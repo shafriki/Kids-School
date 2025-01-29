@@ -32,7 +32,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn uppercase bg-[#FEA301] text-white">contact</a>
+                <a className="btn uppercase bg-[#FEA301] rounded-lg text-white">contact</a>
             </div>
         </div>
         </div>
